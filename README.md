@@ -1,5 +1,5 @@
 - 👋 @Jessi-JJ
 - 📈 Data Nerd, 🌶️ Mountain Biker, 🖌️ Watercolor Novice
 - 🎓 MSc student Data Science & Analytics at SUNY Polytechnic Institute
-- 👩🏻‍💻 Community Manager, AI Exploration Center at SUNY Polytechnic Institute
+- 👩🏻‍💻 Research & Outreach, AI Exploration Center at SUNY Polytechnic Institute
 - 📫 jessi@jessijaramillo.com
